@@ -1,2 +1,2 @@
-# AMk-lab
-Microcontroller Applications - labs
+# Microcontroller Applications - labs
+
